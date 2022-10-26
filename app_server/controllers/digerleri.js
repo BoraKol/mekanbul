@@ -4,6 +4,4 @@ const hakkinda=function(req, res, next) {
 module.exports={
     hakkinda
 }
-//yorum
-//odev3 denemesi
-//Replit degisikligi2
+//borakol comitti
