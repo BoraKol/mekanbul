@@ -61,15 +61,15 @@ const mekanBilgisi=function(req, res, next) {
             },
             "yorumlar":[
                 {
-                    "yorumYapan":"Asım Sinan Yuksel",
-                    "yorumMetini":"berbaaaat",
-                    "tarih":"20 Ekim 2022",
+                    "yorumYapan":"Bora Kol",
+                    "yorumMetini":"beğenmedim.",
+                    "tarih":"26 Ekim 2022",
                     "puan":"1"
                 },
                 {
-                    "yorumYapan":"Zehra Çakır",
+                    "yorumYapan":"Asım Sinan Yüksel",
                     "yorumMetini":"cok iyi",
-                    "tarih":"20 Kasım 2022",
+                    "tarih":"20 Kasım 2021",
                     "puan":"5"
                 }
             ]
